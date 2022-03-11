@@ -128,8 +128,7 @@ animation-fill-mode: forwards;
 #center-about {
     width:33%;
     margin:0 auto;
-    background-color: green;
-
+    
 }
 
 hr {
@@ -165,7 +164,7 @@ hr {
     font-size:280%;
 }
 #circle-container {
-    margin:0 auto;
+   
     width: 300px;
     height:300px;
     padding: 30px;
